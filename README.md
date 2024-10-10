@@ -5,4 +5,8 @@
 pip install flet
 pip install requests
 ```
-и открой код в любом редакторе и возьми [API](https://openweathermap.org/api) ключ и вставь в строку 14.
+и открой код в любом редакторе и возьми [API](https://openweathermap.org/api) ключ и вставь в строку 14.После запусти
+```
+main.py
+```
+Дай звёздочку или подпишись пожалуйста за старание!)
